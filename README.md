@@ -1,2 +1,2 @@
 # Unity_Game_1_Cosmonuatica
-C# Scripts 
+C# Scripts used for Character movement, cursor environment 
